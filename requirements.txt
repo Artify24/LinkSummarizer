@@ -1,0 +1,16 @@
+langchain_classic 
+langchain
+langchain_groq
+langchain_community
+streamlit
+validators
+langchain_huggingface
+langchain-text-splitters
+langchain_core
+python-dotenv
+youtube-transcript-api
+unstructured
+pytube
+sentence-transformers
+torchvision
+faiss-gpu
